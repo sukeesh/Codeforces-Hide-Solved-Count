@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         CodeforcesHideSolvedCount
+// @name         Codeforces
 // @namespace    http://codeforces.com
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       Sukeesh
 // @match        http://codeforces.com/problemset
 // @grant        none
 // ==/UserScript==
